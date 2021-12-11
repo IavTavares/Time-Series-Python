@@ -8,6 +8,5 @@ So, far I've applied:
 + Multivariate models like VAR 
 + Deep Learning models like RNN (using TensorFlow/Keras) 
 
-A repository for my projects related to Time Series Analysis.
-
+TODO: Use probabilitic/Bayesian Time Series modelling 
 
